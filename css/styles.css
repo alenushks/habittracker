@@ -87,7 +87,6 @@ body {
 .btns {
     display: flex;
     flex-direction: column;
-    height: 19vh;
     gap: 3vh;
 }
 
